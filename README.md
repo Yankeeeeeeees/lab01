@@ -1,4 +1,4 @@
-# Лабораторная работа №1. Платформа .NET, первая программа и первый репозиторий
+
 
 **ФИО:** Канаев Денис Евгеньевич
 **Группа:** ИСП-243
@@ -76,4 +76,4 @@ Console.WriteLine($"Возраст: {age}, частное: {result}");
 - **Stack Overflow**: крупнейший сайт вопросов и ответов для программистов построен на .NET.
 - **Visual Studio**: основная IDE Microsoft для разработки на .NET и C#.
 
-**Скриншоты:** `gitPushLab01_FIO.png`, `step6_firstRunLab01_FIO.png`, `step7_variablesLab01_FIO.png`, `step8_calculatorLab01_FIO.png`, `step9_finalLab01_FIO.png`
+**Скриншоты:** `gitPushLab01_Kanaev.png`, `step6_firstRunLab01_Kanaev.png`, `step7_variablesLab01_Kanaev.png`, `step8_calculatorLab01_Kanaev.png`, `step9_finalLab01_Kanaev.png`
