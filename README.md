@@ -13,11 +13,11 @@
 ```
 Lab01_DotNet/
 ├── img/                      # Скриншоты выполнения шагов
-│   ├── gitPushLab01_FIO.png
-│   ├── step6_firstRunLab01_FIO.png
-│   ├── step7_variablesLab01_FIO.png
-│   ├── step8_calculatorLab01_FIO.png
-│   └── step9_finalLab01_FIO.png
+│   ├── gitPushLab01_Kanaev.png
+│   ├── step6_firstRunLab01_Kanaevpng
+│   ├── step7_variablesLab01_Kanaev.png
+│   ├── step8_calculatorLab01_Kanaev.png
+│   └── step9_finalLab01_Kanaev.png
 ├── HelloWorld/               # Консольный проект C#
 │   ├── HelloWorld.csproj     # Описание проекта: версия .NET, настройки сборки
 │   ├── Program.cs            # Точка входа, весь код программы
